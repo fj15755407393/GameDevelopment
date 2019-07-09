@@ -1,0 +1,16 @@
+{
+"message 1":"deleteAssets[Array<String>]: some assets you can delete before build apk default ['Audio']",
+"message 2":"jrePath[String]: path for copy tools.jar" ,
+"message 3":"deleteGradle[String]:you can delete gradle project files or not default False",
+
+
+"unityPath":"D:/Program Files/Unity/Editor/Unity.exe",
+"projectPath":"E:/iris-fall_fangjun/Client",
+"jrePath":"C:/Program Files/Java/jre1.8.0_191/lib",
+"companyName":"Tencent",
+"productName":"IrisFall",
+"deleteAssets":[],
+"deleteGradle":"False"
+
+
+}
